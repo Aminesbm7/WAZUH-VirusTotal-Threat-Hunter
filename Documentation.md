@@ -81,4 +81,4 @@ Now not only the file gets detected, but its being removed automatically, if u l
 As a prof, im gonna leave here a gif on where i show that i place malware on the Downloads folder and automatically gets deleted.
 
 
-![imatge](/images/15.png)
+![imatge](/images/15.gif)
