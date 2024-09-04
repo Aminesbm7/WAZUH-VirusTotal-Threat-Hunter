@@ -9,6 +9,7 @@ we can start with this project.
 
 The first thing we need to do is to add a virustotal integration to our wazuh, in the wazuh machine cli, we add this integration,
 with your virustotal api key.
+
 ![imatge](/images/2.png)
 
 
