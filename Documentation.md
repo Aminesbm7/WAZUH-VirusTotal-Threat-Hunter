@@ -10,6 +10,8 @@ we can start with this project.
 The first thing we need to do is to add a virustotal integration to our wazuh, in the wazuh machine cli, we add this integration,
 with your virustotal api key. (after every change in configuration file restart the wazuh services in case changes not applying)
 
+File: "/var/ossec/etc/ossec.conf"
+
 ![imatge](/images/2.png)
 
 
